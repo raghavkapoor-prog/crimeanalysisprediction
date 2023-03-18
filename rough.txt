@@ -1,0 +1,158 @@
+const toggleButton = document.getElementsByClassName("toggle-button")[0];
+const navbarLinks = document.getElementsByClassName("navbar-links")[0];
+
+toggleButton.addEventListener("click", () => {
+  navbarLinks.classList.toggle("active");
+});
+
+// above js code could be used in the navbar 
+
+
+
+
+<section>
+    <div class="middlesection">
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <p style="font-size: 125px;">
+        How to use the Tool🔎
+      </p>
+     <div class="textleft1">
+      <p>
+        <ul>
+          <li> <b>step1: Click on the State Wise Data Button</b> </li>
+          <li> <pre style="font-size: 20px;">
+            By just typing the state name (Indian Territory)
+            the state wise data will be shown along with the increase 
+            in the rate of particular Crime and it's statistics </pre></li>
+        </ul>
+      </p>
+
+     </div>
+
+    <div class="imageryt1">
+      <img src="images.jpeg" alt="">
+    </div>
+    <br>
+    <br>
+    
+
+
+    <div class="imgleft2">
+      <img src="" alt="">
+    </div>
+
+    <div class="textryt2">
+      <p>
+        <ul>
+          <li>step2 : go back to home page just and click on the helpline button 
+          </li>
+          <p>
+            you will reach to a new page now genereal helplines that are used pan india are listed <br>
+            beside this you will see that there are state wise buttons <br>
+            chose your state and click on the button you will be able to see particular helpline 
+          </p>
+        </ul>
+      </p>
+    </div>
+    
+    <div class="textleft3">
+      <p>
+        <ul>
+          <li>step3 prediction tool </li>
+          <p>
+            just type the name of particular state and crime type 
+            and duration <br>
+            it will show you the result with accuracy = x 
+          </p>
+        </ul>
+      </p>
+    </div>
+
+    <div class="miscfeatures">
+      <ol>
+        <p> Miscellaneous features </p>
+        <li>you can write a blog here for solution related to a particular crime</li>
+        <li>you can see about this product just by tapping on the srs button on the landing page</li>
+        <li>you can see our research work related to this product</li>
+        <li>You acn contribute </li>
+      </ol>
+    </div>
+      
+    <!-- <h2>How this tool works </h2> -->
+    <br>
+  </p>
+</div>
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <footer>
+
+    <div class="footer-content">
+
+      <h3>Footer Example</h3>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae felis scelerisque, gravida sapien non, cursus augue. Aenean id pretium turpis. Suspendisse eros nunc, sollicitudin nec.</p>
+
+      <ul class="socials">
+
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+
+        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+
+        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+
+        <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+
+      </ul>
+
+    </div>
+
+    <div class="footer-bottom">
+
+      <p>Copyright &copy <span id="year"></span> <a href="#">@coding_dev_</a> </p>
+
+      <div class="footer-menu">
+
+        <ul class="f-menu">
+
+          <li><a href="">Home</a></li>
+
+          <li><a href="">About</a></li>
+
+          <li><a href="">Contact</a></li>
+
+          <li><a href="">Blog</a></li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </footer>
